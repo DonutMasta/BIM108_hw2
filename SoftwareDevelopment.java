@@ -7,8 +7,7 @@ public class SoftwareDevelopment extends Department {
 
     // Erase the content. Fill in the blanks. It returns number.
     public static int getNumber() {
-        //Write your codes here
-        return 0; // don't forget to delete this line
+        return number;
     }
 
 }
